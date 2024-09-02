@@ -1,0 +1,40 @@
+{
+    "Productos": [
+        {
+            "id": "ORD-1",
+            "fecha": "2022-01-01T12:00:00.000Z",
+            "total": 100.00,
+            "estado": "pendiente"
+        },
+        {
+            "id": "ORD-2",
+            "fecha": "2022-05-04T12:00:00.000Z",
+            "total": 110.00,
+            "estado": "finalizada"
+        },
+        {
+            "id": "ORD-3",
+            "fecha": "2022-09-10T12:00:00.000Z",
+            "total": 130.00,
+            "estado": "pendiente"
+        },
+        {
+            "id": "ORD-4",
+            "fecha": "2022-12-12T12:00:00.000Z",
+            "total": 95.00,
+            "estado": "finalizada"
+        },
+        {
+            "id": "ORD-5",
+            "fecha": "2022-05-05T12:00:00.000Z",
+            "total": 200.00,
+            "estado": "pendiente"
+        },
+        {
+            "id": "ORD-6",
+            "fecha": "2022-06-06T12:00:00.000Z",
+            "total": 250.00,
+            "estado": "finalizada"
+        }
+    ]    
+}
