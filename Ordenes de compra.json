@@ -35,6 +35,12 @@
             "fecha": "2022-06-06T12:00:00.000Z",
             "total": 250.00,
             "estado": "finalizada"
+        },
+        {
+            "id": "ORD-7",
+            "fecha": "2022-06-03T12:00:00.000Z",
+            "total": 299.00,
+            "estado": "pendiente"
         }
     ]    
 }
